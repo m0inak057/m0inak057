@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi myself Moinak and I am a 3rd year B.TECH student at Jain University, Bangalore.<br>I am also building TapNex an Event-Tech which provides NFC‑based payment solutions.<br>
+Hi myself Moinak and I am a 3rd year B.TECH student at Jain University, Bangalore.<br>I am building TapNex an Event-Tech which provides NFC‑based payment solutions.<br>
 
 
 ## 🌐 Socials:
