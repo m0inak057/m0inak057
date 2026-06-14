@@ -79,14 +79,7 @@ Currently:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![N8N](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-## 🏆 Achievements
 
-* Top 10 — 48-Hour National CTF by MIT Manipal
-* Finalist — FET Codewave 3.0
-* Finalist — Code Relay Hackathon
-* Certified in Generative AI & NLP
-
----
 
 ## 📈 GitHub Stats
 
