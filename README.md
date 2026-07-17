@@ -7,7 +7,6 @@ I'm a B.Tech (CSE-AIML) student at Jain University, Bengaluru, passionate about 
 Currently:
 
 * 🤖 AI Engineer Intern at Sole-arium Technologies
-* 🚀 Full Stack Engineer Intern at TapNex (NexGen FC)
 * 🧠 Building Agentic AI, RAG, and Multi-Agent Systems
 * ☁️ Exploring Cloud-Native AI Deployments on AWS & GCP
 * 🏆 Active Hackathon & CTF Participant
